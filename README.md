@@ -20,18 +20,17 @@ Currently only working for windows 10+
    pip install -r requirements.txt
    ```
 
+3. **Muse 2 Integration**:
+   Ensure that your Muse 2 device is connected and streaming data. The application will automatically detect and process the EEG data in real time.
+
+   This project requires **Windows 10+** and works in conjunction with the [BlueMuse](https://github.com/kowalej/BlueMuse) app to enable a stream between the Muse 2 EEG headband and the computer.
+
 ## Usage
 1. **Run the Application**:
    Once installed, run the main interface:
    ```bash
    python userInterface_v10.py
    ```
-
-**Muse 2 Integration**:
-   Ensure that your Muse 2 device is connected and streaming data. The application will automatically detect and process the EEG data in real time.
-
-   This project requires **Windows 10+** and works in conjunction with the [BlueMuse](https://github.com/kowalej/BlueMuse) app to enable a stream between the Muse 2 EEG headband and the computer.
-
 
 Make sure all required libraries are installed by referring to the `requirements.txt` file.
 
