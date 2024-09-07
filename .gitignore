@@ -1,5 +1,14 @@
 .venv
-TrainingMedia
+TrainingMedia/Backups
+TrainingMedia/Image Training/Training Image.png
+TrainingMedia/Video Training/Training_log_backup.zip
+TrainingMedia/Video Training/Training_video_1.mp4
+TrainingMedia/Video Training/Training_video_2.mp4
+TrainingMedia/Video Training/Training_video_3.mp4
+TrainingMedia/Video Training/Training_video_4.mp4
+TrainingMedia/Video Training/Training_video_5.mp4
+TrainingMedia/ecological_video.mp4
+TrainingMedia/Training_log.csv
 build
 dist
 __pycache__
