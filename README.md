@@ -28,6 +28,7 @@ Currently only working for windows 10+
 ## Usage
 
 1. **Importing Training Media**
+
    Training media is not included on github due to size of files, reach out to me to get training media files.
 
 2. **Run the Application**:
