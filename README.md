@@ -26,11 +26,17 @@ Currently only working for windows 10+
    This project requires **Windows 10+** and works in conjunction with the [BlueMuse](https://github.com/kowalej/BlueMuse) app to enable a stream between the Muse 2 EEG headband and the computer.
 
 ## Usage
-1. **Run the Application**:
+
+1. **Importing Training Media**
+   Training media is not included on github due to size of files, reach out to me to get training media files.
+
+2. **Run the Application**:
    Once installed, run the main interface:
    ```bash
    python userInterface_v10.py
    ```
+
+
 
 Make sure all required libraries are installed by referring to the `requirements.txt` file.
 
