@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>KI_ICON_ONLY.png</file>
+    <file>ki_digital_logo_rgb-custom20221013163945.jpg</file>
+  </qresource>
+  <qresource prefix="Buttons">
+    <file>play-circle.svg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+.venv
+TrainingMedia
+build
+dist
+__pycache__
+backup
+PerformanceLogs
+nfb_parameters.json
+NFBTraining.spec
+dist
