@@ -1,7 +1,7 @@
 # Neurofeedback (NFB) Training
 
-This project is part of a degree project focusing on neurofeedback applications using the Muse 2 device. It integrates EEG data acquisition with a graphical user interface for real-time neurofeedback training.
-Currently only working for windows 10+
+This project is part of a degree project with a focus on neurofeedback training (NFB) using the Muse 2 portable EEG headband. 
+Currently only for windows 10+ due to the third-party software "BlueMuse" only works for Windows 10+.
 
 ## Showcase
 ![ApplicationFrameHost_iaU3YK0udd](https://github.com/user-attachments/assets/acdf2f5e-30bd-40fd-82d2-0bb6bdf45954)
@@ -23,7 +23,7 @@ Currently only working for windows 10+
 3. **Muse 2 Integration**:
    Ensure that your Muse 2 device is connected and streaming data. The application will automatically detect and process the EEG data in real time.
 
-   This project requires **Windows 10+** and works in conjunction with the [BlueMuse](https://github.com/kowalej/BlueMuse) app to enable a stream between the Muse 2 EEG headband and the computer.
+    The [BlueMuse](https://github.com/kowalej/BlueMuse) app to enable a stream between the Muse 2 EEG headband and the computer.
 
 ## Usage
 
@@ -36,7 +36,6 @@ Currently only working for windows 10+
    ```bash
    python userInterface_v10.py
    ```
-
 
 
 Make sure all required libraries are installed by referring to the `requirements.txt` file.
