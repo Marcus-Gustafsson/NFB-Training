@@ -1,7 +1,8 @@
 # Neurofeedback (NFB) Training
 
 This project is part of a degree project with a focus on neurofeedback training (NFB) using the Muse 2 portable EEG headband. 
-Currently only for windows 10+ due to the third-party software "BlueMuse" only works for Windows 10+.
+
+Currently only for windows 10+ due to the third-party software "BlueMuse" compatibility.
 
 ## Showcase
 ![ApplicationFrameHost_iaU3YK0udd](https://github.com/user-attachments/assets/acdf2f5e-30bd-40fd-82d2-0bb6bdf45954)
