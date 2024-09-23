@@ -40,11 +40,8 @@ Currently only for windows 10+ due to the third-party software "BlueMuse" compat
    python userInterface_v10.py
    ```
 
-
 Make sure all required libraries are installed by referring to the `requirements.txt` file.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Original code by [Máté Károly Tóth](https://kth.diva-portal.org/smash/get/diva2:1773405/FULLTEXT01.pdf).
