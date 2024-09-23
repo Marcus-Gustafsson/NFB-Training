@@ -1,6 +1,6 @@
 # Neurofeedback (NFB) Training
 
-This project is part of a degree project with a focus on neurofeedback training (NFB) using the Muse 2 portable EEG headband. 
+This project is part of a degree project with a focus on neurofeedback training (NFB) for post-Concussion Syndrome (PCS) patients using the Muse 2 portable EEG headband.
 
 Currently only for windows 10+ due to the third-party software "BlueMuse" compatibility.
 
